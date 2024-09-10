@@ -1,0 +1,71 @@
+{
+  "contacts": [
+    {
+      "cname": "John Alexander",
+      "cno": "9909755840",
+      "cimg": "https://www.shutterstock.com/image-photo/young-handsome-man-beard-wearing-600nw-1768126784.jpg",
+      "id": 3
+    },
+    {
+      "cname": "Teenaa",
+      "cno": "9809755850",
+      "cimg": "https://cdn.pixabay.com/photo/2017/08/01/09/41/people-2564026_1280.jpg",
+      "id": 4
+    },
+    {
+      "cname": "Sam",
+      "cno": "9164839065",
+      "cimg": "https://www.rri.res.in/sites/default/files/2022-09/Abhisek%20Tamang.jpg",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "cid": "2",
+      "categoryname": "Friends",
+      "contacts": [
+        {
+          "cname": "Sam",
+          "cno": "9164839065",
+          "cimg": "https://www.rri.res.in/sites/default/files/2022-09/Abhisek%20Tamang.jpg",
+          "id": 3
+        },
+        {
+          "cname": "John Alexander",
+          "cno": "9909755840",
+          "cimg": "https://www.shutterstock.com/image-photo/young-handsome-man-beard-wearing-600nw-1768126784.jpg",
+          "id": 3
+        }
+      ],
+      "id": 2
+    },
+    {
+      "cid": "2",
+      "categoryname": "Family",
+      "contacts": [
+        {
+          "cname": "Teena",
+          "cno": "9809755850",
+          "cimg": "https://cdn.pixabay.com/photo/2017/08/01/09/41/people-2564026_1280.jpg",
+          "id": 4
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [],
+  "users": [
+    {
+      "username": "ruba",
+      "email": "ruba@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "username": "fathima",
+      "email": "fathima@gmail.com",
+      "password": "123",
+      "id": 2
+    }
+  ]
+}
